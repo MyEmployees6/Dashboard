@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dashboard</string>
+    <string name="title_activity_linechart">linechart</string>
+    <string name="title_activity_linepage">linepage</string>
+</resources>
